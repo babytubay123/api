@@ -1,6 +1,11 @@
-# Como Conectarse a una API con Javascript usando Async, Await y Fetch
-### [Tutorial: https://youtu.be/PNr8-JDMinU](https://youtu.be/PNr8-JDMinU)
+# Universidad Tecnológica de la Sierra Argentina
 
-![Como Conectarse a una API con Javascript usando Async, Await y Fetch](https://raw.githubusercontent.com/falconmasters/como-conectarse-a-una-api-javascript/master/img/thumb.png)
+## Nombre del proyecto: Conexión de API
 
-Por: [FalconMasters](http://www.falconmasters.com)
+## Nombre del alumno: Irving Alvarez Bautista
+
+## Datos de la materia: Aplicaciones Web Orientada a Servicios
+
+## Cuatrimestre: 4
+
+## Tecnologías utilizadas en el proyecto: JavaScript, Fetch API TMDB, HTML, CSS).
